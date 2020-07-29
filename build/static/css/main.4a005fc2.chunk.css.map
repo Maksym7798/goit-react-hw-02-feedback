@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,OACE,iBACF,CAEA,GACE,YACF,CAEA,GACE,eACF","file":"main.4a005fc2.chunk.css","sourcesContent":["button{\n  margin-right: 10px;\n}\n\nul{\n  padding: 10px;\n}\n\nli{\n  list-style: none;\n}"]}
